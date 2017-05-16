@@ -1,2 +1,2 @@
 VERSION = [1, 0, 0]
-from .ecbcipher import ecb
+from cipher.ecbcipher import ecb
