@@ -1,1 +1,2 @@
-from pyaes.aes import new
+VERSION = [1, 0, 0]
+from .aes import new
